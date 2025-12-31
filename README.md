@@ -23,9 +23,9 @@
 ---
 
 ## 📂 Repositories
-- 📌 DSA Practice (C++)
-- 📌 Web Development Projects
-- 📌 Portfolio Website (coming soon)
+- 📌 leetcode-dsa-cpp
+- 📌 web-projects
+- 📌 portfolio
 
 ---
 
