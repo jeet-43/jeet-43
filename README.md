@@ -23,10 +23,9 @@
 ---
 
 ## 📂 Repositories
-- 📌 leetcode-dsa-cpp
+- 📌 dsa-cpp
 - 📌 web-projects
-- 📌 portfolio
-
+  
 ---
 
 ## 🎯 Goals
