@@ -4,7 +4,7 @@
 🎓 BCA Student  
 💻 Learning Data Structures & Algorithms in C++  
 🌐 Exploring Web Development  
-🎯 Aspiring Software Developer
+🎯 Aspiring Software Engineer
 
 ---
 
