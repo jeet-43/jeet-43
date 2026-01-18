@@ -9,9 +9,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C++
+- **Languages:** C++ ,C ,Python
 - **Web:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, Sublime Text , Vs Code
+- **Tools:** Git, GitHub,SQL,Sublime Text , Vs Code
 
 ---
 
