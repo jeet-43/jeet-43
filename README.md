@@ -70,7 +70,6 @@ while (alive) {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeet-43&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeet-43&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
 
 </div>
 
