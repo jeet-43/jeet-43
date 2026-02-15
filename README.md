@@ -9,7 +9,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Jeet__16-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Jeet_16/)
 [![GitHub](https://img.shields.io/badge/GitHub-jeet--43-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeet-43)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jeet-43&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
