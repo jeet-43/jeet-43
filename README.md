@@ -7,8 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-jeet--dev.netlify.app-58a6ff?style=for-the-badge&logo=netlify&logoColor=white)](https://jeet-dev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeet--makhija-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeet-makhija/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Jeet__16-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Jeet_16/)
-[![GitHub](https://img.shields.io/badge/GitHub-jeet--43-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeet-43)
-
 
 </div>
 
