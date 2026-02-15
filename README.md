@@ -55,12 +55,6 @@ while (alive) {
 
 ## 📂 Featured Repositories
 
-<div align="center">
-
-[![dsa-cpp](https://github-readme-stats.vercel.app/api/pin/?username=jeet-43&repo=dsa-cpp&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff)](https://github.com/jeet-43/dsa-cpp)
-[![web-projects](https://github-readme-stats.vercel.app/api/pin/?username=jeet-43&repo=web-projects&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff)](https://github.com/jeet-43/web-projects)
-
-</div>
 
 | Repository | Description |
 |------------|-------------|
@@ -73,7 +67,6 @@ while (alive) {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeet-43&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeet-43&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
