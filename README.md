@@ -4,10 +4,6 @@
 
 **BCA Student · C++ & DSA Practitioner · Web Developer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jeet--dev.netlify.app-58a6ff?style=for-the-badge&logo=netlify&logoColor=white)](https://jeet-dev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeet--makhija-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeet-makhija/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Jeet__16-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Jeet_16/)
-
 </div>
 
 ---
@@ -61,18 +57,6 @@ while (alive) {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeet-43&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-
-</div>
-
----
-
 ## 🧩 LeetCode Stats
 
 <div align="center">
@@ -81,18 +65,6 @@ while (alive) {
 
 </div>
 
----
-
-
-| Topic | Status | Progress |
-|-------|--------|----------|
-| Core DSA Patterns | 🔄 Active | `████████░░` 80% |
-| C++ STL & Internals | 🔄 Active | `████████░░` 80% |
-| Full Stack Dev | 🔄 Active | `████░░░░░░` 45% |
-| Competitive Programming | 🔄 Exploring | `███░░░░░░░` 25% |
-| System Design | ⏳ Planned | `█░░░░░░░░░` 12% |
-
----
 
 ## 🎯 Current Focus
 
