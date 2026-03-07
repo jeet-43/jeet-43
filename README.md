@@ -42,11 +42,29 @@ while (alive) {
 
 ---
 
-## 📂 Featured Repositories
+## 🚀 Featured Project
+
+<div align="center">
+
+[![AlgoSight](https://img.shields.io/badge/AlgoSight-Interactive%20Algorithm%20Visualizer-6b8aff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://algo-sight.netlify.app)
+
+**AlgoSight** — An interactive, step-by-step DSA visualizer built with vanilla HTML, CSS & JavaScript.
+
+🔍 34 algorithms &nbsp;·&nbsp; ⚔️ Race Mode &nbsp;·&nbsp; 📖 Learn Mode &nbsp;·&nbsp; 🗺️ Pathfinding Grid &nbsp;·&nbsp; 💾 GIF Export
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-algo--sight.netlify.app-22c55e?style=flat-square&logo=netlify&logoColor=white)](https://algo-sight.netlify.app)
+[![GitHub](https://img.shields.io/badge/Source%20Code-jeet--43%2Falgo--sight-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeet-43/algo-sight)
+
+</div>
+
+---
+
+## 📂 Repositories
 
 | Repository | Description |
 |------------|-------------|
-| [**dsa-cpp**](https://github.com/jeet-43/dsa-cpp) | DSA problems solved in C++ — optimized approaches, time & space complexity notes, pattern-based organization 
+| [**algo-sight**](https://github.com/jeet-43/algo-sight) | Interactive visualizer for 34 sorting, searching, pathfinding & DSA technique algorithms. Race mode, narration, 5-language code snippets, GIF export. |
+| [**dsa-cpp**](https://github.com/jeet-43/dsa-cpp) | DSA problems solved in C++ — optimized approaches, time & space complexity notes, pattern-based organization |
 | [**web-projects**](https://github.com/jeet-43/web-projects) | Frontend projects built while learning web development, including deployed applications |
 
 ---
@@ -58,6 +76,8 @@ while (alive) {
     <img src="https://leetcard.jacoblin.cool/Jeet_16?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap&border=0&radius=8" alt="LeetCode Stats" />
   </a>
 </p>
+
+---
 
 ## 🎯 Current Focus
 
@@ -71,9 +91,17 @@ while (alive) {
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://jeet-dev.netlify.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-jeet--dev.netlify.app-58a6ff?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/jeet-makhija/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
-  <a href="mailto:jeetmakhija2@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-jeetmakhija2%40gmail.com-EA4335?style=for-the-badge" /></a>
+  <a href="https://jeet-dev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-jeet--dev.netlify.app-58a6ff?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jeet-makhija/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:jeetmakhija2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jeetmakhija2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
