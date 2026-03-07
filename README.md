@@ -46,8 +46,7 @@ while (alive) {
 
 | Repository | Description |
 |------------|-------------|
-| [**dsa-cpp**](https://github.com/jeet-43/dsa-cpp) | DSA problems solved in C++ — optimized approaches, time & space complexity notes, pattern-based organization |
-| [**dsa-visualizer**](https://github.com/jeet-43/dsa-visualizer) | Interactive browser-based tool to visualize 10 sorting, searching & technique algorithms with step-by-step animation, multi-language code, and sound — [Live Demo](https://dsa-visualizer-jeet.netlify.app) |
+| [**dsa-cpp**](https://github.com/jeet-43/dsa-cpp) | DSA problems solved in C++ — optimized approaches, time & space complexity notes, pattern-based organization 
 | [**web-projects**](https://github.com/jeet-43/web-projects) | Frontend projects built while learning web development, including deployed applications |
 
 ---
