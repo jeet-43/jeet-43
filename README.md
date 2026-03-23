@@ -1,7 +1,20 @@
-<h1 align="center">Hi, I'm Jeet Makhija 👋</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+
+<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<h1 align="center">Hi, I'm Jeet Makhija <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
 <p align="center"><strong>BCA Student · C++ & DSA Practitioner · Web Developer</strong></p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🧑‍💻 About Me
 
@@ -20,27 +33,35 @@ while (alive) {
 // That's the loop.
 ```
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+<p align="center">
+  <!-- Languages -->
+  <img src="https://media.giphy.com/media/klcm8qtSNNcmJZxk9B/giphy.gif" alt="C" width="90"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="90"/>
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="Python" width="90"/>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JavaScript" width="90"/>
+  
 ### Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+ <p align="center">
+ <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="90"/>
+ <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="90"/>
+  
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
+ <p align="center">
+ <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="GitHub" width="90"/>
+ <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="VS Code" width="90"/>
+ <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" alt="MySQL" width="90"/>
+ <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Sublime Text" width="80"/>
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🚀 Featured Project
 
@@ -57,7 +78,9 @@ while (alive) {
 
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 📂 Repositories
 
@@ -67,7 +90,9 @@ while (alive) {
 | [**dsa-cpp**](https://github.com/jeet-43/dsa-cpp) | DSA problems solved in C++ — optimized approaches, time & space complexity notes, pattern-based organization |
 | [**web-projects**](https://github.com/jeet-43/web-projects) | Frontend projects built while learning web development, including deployed applications |
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🧩 LeetCode Stats
 
@@ -77,7 +102,9 @@ while (alive) {
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🎯 Current Focus
 
@@ -86,7 +113,9 @@ while (alive) {
 - 📌 Building 1–2 solid projects with real-world relevance
 - 📌 Preparing for software engineering internships in 2026
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 📫 Connect With Me
 
@@ -104,7 +133,9 @@ while (alive) {
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <p align="center"><em>"The best way to learn is to build. The best way to build is to start."</em></p>
 <p align="center">⭐ <strong>If you find my repositories useful, consider giving them a star!</strong> ⭐</p>
