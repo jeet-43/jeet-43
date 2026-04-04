@@ -68,8 +68,6 @@ while (alive) {
 
 🔍 34 algorithms &nbsp;·&nbsp; ⚔️ Race Mode &nbsp;·&nbsp; 📖 Learn Mode &nbsp;·&nbsp; 🗺️ Pathfinding Grid &nbsp;·&nbsp; 💾 GIF Export
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-algo--sight.netlify.app-22c55e?style=flat-square&logo=netlify&logoColor=white)](https://algo-sight.netlify.app)
-[![GitHub](https://img.shields.io/badge/Source%20Code-jeet--43%2Falgo--sight-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeet-43/algo-sight)
 
 </div>
 
@@ -77,17 +75,7 @@ while (alive) {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 📂 Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [**algo-sight**](https://github.com/jeet-43/algo-sight) | Interactive visualizer for 34 sorting, searching, pathfinding & DSA technique algorithms. Race mode, narration, 5-language code snippets, GIF export. |
-| [**dsa-cpp**](https://github.com/jeet-43/dsa-cpp) | DSA problems solved in C++ — optimized approaches, time & space complexity notes, pattern-based organization |
-| [**web-projects**](https://github.com/jeet-43/web-projects) | Frontend projects built while learning web development, including deployed applications |
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 
 ## 🧩 LeetCode Stats
 
