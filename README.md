@@ -37,4 +37,4 @@ BCA student from Delhi. I spend my time on C++ and DSA, and build web projects t
 
 ## Contact
 
-[Portfolio](https://jeet-dev.netlify.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jeet-makhija/) &nbsp;·&nbsp; [jeetmakhija2@gmail.com](mailto:jeetmakhija2@gmail.com)
+[Portfolio](https://jeet-makhija.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jeet-makhija/) &nbsp;·&nbsp; [jeetmakhija2@gmail.com](mailto:jeetmakhija2@gmail.com)
