@@ -15,7 +15,7 @@ BCA student from Delhi. I spend my time on C++ and DSA, and build web projects t
 **[AlgoSight](https://algo-sight.netlify.app)** — Interactive DSA visualizer built with vanilla HTML, CSS & JS.  
 34 algorithms · Race Mode · Learn Mode · Pathfinding Grid · GIF Export
 
-**[Chat App](https://github.com/jeet-makhija/chat-app)** — Real-time multi-room chat with a Python WebSocket server and vanilla JS frontend.  
+**[Chat App](https://github.com/jeet-43/chat-app)** — Real-time multi-room chat with a Python WebSocket server and vanilla JS frontend.  
 Typing indicators · Rate limiting · Dark/light theme · Particle canvas
 
 ---
