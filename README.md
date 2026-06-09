@@ -1,22 +1,25 @@
 # Jeet Makhija
-BCA student from Delhi. I spend my time on C++ and DSA, and build web projects to apply what I learn.
+BCA student from Delhi. I build things daily — DSA in C++, 
+real-time backends in Python, and frontend tools in vanilla JS.
 
 ---
 
 ## Skills
-**Languages** &nbsp; JavaScript · C++ · Python · Java  
-**Frontend** &nbsp;&nbsp;&nbsp; React · Next.js · Three.js · Tailwind CSS · HTML · CSS  
-**Backend** &nbsp;&nbsp;&nbsp;&nbsp; Node.js · Express · WebSockets · SQL  
-**Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git · GitHub · VS Code
+**Languages** &nbsp; C++ · Python · JavaScript  
+**Frontend** &nbsp;&nbsp;&nbsp; HTML · CSS · Vanilla JS · React · Tailwind CSS  
+**Backend** &nbsp;&nbsp;&nbsp;&nbsp; Python asyncio · WebSockets · FastAPI · PostgreSQL · SQL  
+**CV / ML** &nbsp;&nbsp;&nbsp;&nbsp; OpenCV · MediaPipe  
+**Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git · GitHub · VS Code · Railway · Netlify  
 
 ---
 
-## Featured Projects
-**[AlgoSight](https://algo-sight.netlify.app)** — Interactive DSA visualizer built with vanilla HTML, CSS & JS.  
-34 algorithms · Race Mode · Learn Mode · Pathfinding Grid · GIF Export
+## Projects
 
-**[Chat App](https://github.com/jeet-43/chat-app)** — Real-time multi-room chat with a Python WebSocket server and vanilla JS frontend.  
-Typing indicators · Rate limiting · Dark/light theme · Particle canvas
+**[AlgoSight](https://algo-sight.netlify.app)** — Zero-dependency DSA visualizer in pure vanilla JS.  
+34 algorithms · Race Mode · Step-by-step with narration · Pathfinding grid · Custom LZW GIF encoder
+
+**[Chat App](https://github.com/jeet-43/chat-app)** — Real-time multi-room chat with async Python backend.  
+Python asyncio · WebSockets · Rate limiting · Typing indicators 
 
 ---
 
@@ -26,10 +29,10 @@ Typing indicators · Rate limiting · Dark/light theme · Particle canvas
 ---
 
 ## Currently
-- Grinding DSA patterns for technical interviews
-- Solving C++ problems daily on LeetCode
-- Building projects with real-world relevance
-- Targeting software engineering internships in 2026
+- Adding auth, PostgreSQL and deployment to the chat app
+- Building an expense tracker with LLM-powered insights
+- Solving DSA patterns daily in C++ on LeetCode
+- Targeting software engineering internships
 
 ---
 
