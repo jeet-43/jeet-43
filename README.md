@@ -19,7 +19,10 @@ real-time backends in Python, and frontend tools in vanilla JS.
 34 algorithms · Race Mode · Step-by-step with narration · Pathfinding grid · Custom LZW GIF encoder
 
 **[Chat App](https://github.com/jeet-43/chat-app)** — Real-time multi-room chat with async Python backend.  
-Python asyncio · WebSockets · Rate limiting · Typing indicators 
+Python asyncio · WebSockets · Rate limiting · Typing indicators
+
+**[Hand Gesture Browser Control](https://github.com/jeet-43/hand-gesture-control)** — Control your browser using hand gestures via webcam.  
+OpenCV · MediaPipe · Custom finger-detection algorithm · Real-time face + hand tracking
 
 ---
 
