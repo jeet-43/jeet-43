@@ -1,5 +1,5 @@
 # Jeet Makhija
-BCA student from Delhi. I build things daily — DSA in C++, 
+BCA student from Delhi. I build things daily  DSA in C++, 
 real-time backends in Python, and frontend tools in vanilla JS.
 
 ---
