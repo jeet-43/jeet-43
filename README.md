@@ -1,14 +1,18 @@
 # Jeet Makhija
+
 BCA student from Delhi. I build things daily  DSA in C++, 
 real-time backends in Python, and frontend tools in vanilla JS.
+
 ---
 ## Skills
+
 **Languages** &nbsp; C++ · Python · JavaScript  
 **Frontend** &nbsp;&nbsp;&nbsp; HTML · CSS · Vanilla JS · React · Tailwind CSS  
 **Backend** &nbsp;&nbsp;&nbsp;&nbsp; Python asyncio · WebSockets · FastAPI · PostgreSQL · SQL  
 **CV / ML** &nbsp;&nbsp;&nbsp;&nbsp; OpenCV · MediaPipe  
 **AI / Voice** &nbsp;&nbsp; OpenAI SDK · Groq API · SpeechRecognition · gTTS  
 **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git · GitHub · VS Code · Railway · Netlify  
+
 ---
 ## Projects
 **[Nova](https://github.com/jeet-43/nova-voice-assistant)** — Voice-activated AI assistant that opens apps, finds files, plays music, and answers questions out loud.  
