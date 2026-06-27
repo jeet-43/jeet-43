@@ -10,6 +10,7 @@ real-time backends in Python, and frontend tools in vanilla JS.
 **Frontend** &nbsp;&nbsp;&nbsp; HTML · CSS · Vanilla JS · React · Tailwind CSS  
 **Backend** &nbsp;&nbsp;&nbsp;&nbsp; Python asyncio · WebSockets · FastAPI · PostgreSQL · SQL  
 **CV / ML** &nbsp;&nbsp;&nbsp;&nbsp; OpenCV · MediaPipe  
+**Data** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NumPy · Pandas · Matplotlib  
 **AI / Voice** &nbsp;&nbsp; OpenAI SDK · Groq API · SpeechRecognition · gTTS  
 **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git · GitHub · VS Code · Railway · Netlify  
 
