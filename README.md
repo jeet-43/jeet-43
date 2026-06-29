@@ -25,20 +25,6 @@ Python · SpeechRecognition · Groq LLM · gTTS + pygame · python-dotenv
 **[Chat App](https://github.com/jeet-43/chat-app)** — Real-time multi-room chat with async Python backend.  
 Python asyncio · WebSockets · Rate limiting · Typing indicators
 
-**[Hand Gesture Browser Control](https://github.com/jeet-43/hand-gesture-control)** — Control your browser using hand gestures via webcam.  
-OpenCV · MediaPipe · Custom finger-detection algorithm · Real-time face + hand tracking
-
-**[Workshop Management System](https://github.com/jeet-43/workshop-management-system)** — CLI app to manage college workshops end-to-end, from registration and attendance to grading and certificate generation.  
-Python · Matplotlib · NumPy · File I/O
-
-**[Carpool Management System](https://github.com/jeet-43/carpool-management-system)** — CLI app to manage carpool rides end-to-end, from passenger booking and driver ratings to receipt
-generation. <br>
-Python · Matplotlib · NumPy · File I/O
-
-**[Life Insurance Management System](https://github.com/jeet-43/life-insurance-management-system)** — CLI app to manage life insurance end-to-end, from policyholder enrollment and claim processing to premium payment tracking. <br>
-Python · Matplotlib · NumPy · File I/O
-
----
 ## LeetCode
 [![LeetCode](https://leetcard.jacoblin.cool/Jeet_16?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/Jeet_16/)
 ---
