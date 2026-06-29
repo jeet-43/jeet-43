@@ -35,6 +35,9 @@ Python · Matplotlib · NumPy · File I/O
 generation. <br>
 Python · Matplotlib · NumPy · File I/O
 
+**[Life Insurance Management System](https://github.com/jeet-43/life-insurance-management-system)** — CLI app to manage life insurance end-to-end, from policyholder enrollment and claim processing to premium payment tracking. <br>
+Python · Matplotlib · NumPy · File I/O
+
 ---
 ## LeetCode
 [![LeetCode](https://leetcard.jacoblin.cool/Jeet_16?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/Jeet_16/)
