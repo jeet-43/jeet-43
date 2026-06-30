@@ -6,13 +6,13 @@ real-time backends in Python, and frontend tools in vanilla JS.
 ---
 ## Skills
 
-**Languages** &nbsp; C++ · Python · JavaScript  
-**Frontend** &nbsp;&nbsp;&nbsp; HTML · CSS · Vanilla JS · React · Tailwind CSS  
-**Backend** &nbsp;&nbsp;&nbsp;&nbsp; Python asyncio · WebSockets · FastAPI · PostgreSQL · SQL  
-**CV / ML** &nbsp;&nbsp;&nbsp;&nbsp; OpenCV · MediaPipe  
-**Data** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NumPy · Pandas · Matplotlib  
-**AI / Voice** &nbsp;&nbsp; OpenAI SDK · Groq API · SpeechRecognition · gTTS  
-**Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git · GitHub · VS Code · Railway · Netlify  
+**Languages**   -   C++ · Python · JavaScript <br>
+**Frontend**    -  HTML · CSS · Vanilla JS <br>
+**Backend**     - Python asyncio · WebSockets <br>
+**CV / ML**     -  OpenCV · MediaPipe <br>
+**Data**        -  NumPy · Matplotlib <br>
+**AI / Voice**  -  OpenAI SDK · Groq API · SpeechRecognition · gTTS · pyttsx3 <br>
+**Tools**       -  Git · GitHub · VS Code <br> 
 
 ---
 ## Projects
