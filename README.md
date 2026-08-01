@@ -10,6 +10,7 @@ real-time backends in Python, frontend tools in vanilla JS, and I'm now branchin
 **Data Analytics** -  Python · pandas · NumPy · SQL · Power BI · Matplotlib · Excel <br>
 **AI / Voice**  -  OpenAI SDK · Groq API · SpeechRecognition · gTTS · pyttsx3 <br>
 **Tools**       -  Git · GitHub · VS Code <br> 
+
 ---
 ## Projects
 **[Nova](https://github.com/jeet-43/nova-voice-assistant)** — Voice-activated AI assistant that opens apps, finds files, plays music, and answers questions out loud.  
