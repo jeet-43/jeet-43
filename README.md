@@ -14,19 +14,19 @@ real-time backends in Python, frontend tools in vanilla JS, and I'm now branchin
 ---
 ## Projects
 **[Nova](https://github.com/jeet-43/nova-voice-assistant)** — Voice-activated AI assistant that opens apps, finds files, plays music, and answers questions out loud.  
-Python · SpeechRecognition · Groq LLM · gTTS + pygame · python-dotenv
+Python · SpeechRecognition · Groq LLM · gTTS + pygame · python-dotenv <br>
 **[Indian Startup Funding Analysis](https://github.com/jeet-43/indian-startup-funding-analysis)** — End to end data analytics project: cleaned a messy real world funding dataset, answered a VC investment thesis question with SQL, and built a four page Power BI dashboard around it.  
-Python · pandas · SQL · SQLite · Power BI
+Python · pandas · SQL · Excel · Power BI <br>
 **[AlgoSight](https://algo-sight.netlify.app)** — Zero-dependency DSA visualizer in pure vanilla JS.  
-34 algorithms · Race Mode · Step-by-step with narration · Pathfinding grid · Custom LZW GIF encoder
+34 algorithms · Race Mode · Step-by-step with narration · Pathfinding grid · Custom LZW GIF encoder <br>
 **[Chat App](https://github.com/jeet-43/chat-app)** — Real-time multi-room chat with async Python backend.  
-Python asyncio · WebSockets · Rate limiting · Typing indicators
+Python asyncio · WebSockets · Rate limiting · Typing indicators <br>
 ## LeetCode
 [![LeetCode](https://leetcard.jacoblin.cool/Jeet_16?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/Jeet_16/)
 ---
 ## Currently
-- Learning backend development
-- Learning data analytics, Python, Excel, SQL and Power BI
+- Learning backend development (Python and FastAPI)
+- Learning data analytics, Python, SQL, Excel and Power BI
 - Solving DSA patterns daily in C++ on LeetCode
 - Searching for internships
   
