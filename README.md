@@ -1,7 +1,9 @@
 # Jeet Makhija
-BCA student from Delhi. I build things daily  DSA in C++, 
-real-time backends in Python, frontend tools in vanilla JS, and I'm now branching into data analytics.
+
+BCA student from Delhi, building something new every day. I write DSA in C++, ship real-time backends in Python, build frontend tools in vanilla JS, and I'm now going deep on data analytics - turning messy datasets into dashboards and decisions.
+
 ---
+
 ## Skills
 **Languages**   -   C++ · Python · JavaScript <br>
 **Frontend**    -  HTML · CSS · Vanilla JS <br>
@@ -9,29 +11,39 @@ real-time backends in Python, frontend tools in vanilla JS, and I'm now branchin
 **CV / ML**     -  OpenCV · MediaPipe <br>
 **Data Analytics** -  Python · pandas · NumPy · SQL · Power BI · Matplotlib · Excel <br>
 **AI / Voice**  -  OpenAI SDK · Groq API · SpeechRecognition · gTTS · pyttsx3 <br>
-**Tools**       -  Git · GitHub · VS Code <br> 
+**Tools**       -  Git · GitHub · VS Code <br>
 
 ---
+
 ## Projects
-**[Nova](https://github.com/jeet-43/nova-voice-assistant)** — Voice-activated AI assistant that opens apps, finds files, plays music, and answers questions out loud.  
-Python · SpeechRecognition · Groq LLM · gTTS + pygame <br>
+
+**[Customer Retention Analysis](https://github.com/jeet-43/customer-retention-analysis)** — End-to-end retention analysis for a UK online gift retailer on 1.05M transactions: RFM segmentation, a data-derived churn cutoff, cohort retention, SQL business queries, and a six-page interactive Power BI dashboard.
+Python · pandas · SQL · Power BI <br>
+
 **[TeamPulse](https://github.com/jeet-43/team-pulse)** — A collaboration health monitor for student teams - measures team health, fairness, and risk in real time. Built for NYC CodeQuest 2026 (EDU-04). <br>
 HTML · CSS · Vanilla JS <br>
-**[Indian Startup Funding Analysis](https://github.com/jeet-43/indian-startup-funding-analysis)** — End to end data analytics project: cleaned a messy real world funding dataset, answered a VC investment thesis question with SQL, and built a four page Power BI dashboard around it.  
+
+**[Indian Startup Funding Analysis](https://github.com/jeet-43/indian-startup-funding-analysis)** — End to end data analytics project: cleaned a messy real world funding dataset, answered a VC investment thesis question with SQL, and built a four page Power BI dashboard around it.
 Python · pandas · SQL · Excel · Power BI <br>
-**[AlgoSight](https://algo-sight.netlify.app)** — Zero-dependency DSA visualizer in pure vanilla JS.  
+
+**[AlgoSight](https://algo-sight.netlify.app)** — Zero-dependency DSA visualizer in pure vanilla JS.
 34 algorithms · Race Mode · Step-by-step with narration · Pathfinding grid · Custom LZW GIF encoder <br>
-**[Chat App](https://github.com/jeet-43/chat-app)** — Real-time multi-room chat with async Python backend.  
+
+**[Chat App](https://github.com/jeet-43/chat-app)** — Real-time multi-room chat with async Python backend.
 Python asyncio · WebSockets · Rate limiting · Typing indicators <br>
+
 ## LeetCode
 [![LeetCode](https://leetcard.jacoblin.cool/Jeet_16?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/Jeet_16/)
+
 ---
+
 ## Currently
 - Learning backend development (Python and FastAPI)
 - Learning data analytics, Python, SQL, Excel and Power BI
 - Solving DSA patterns daily in C++ on LeetCode
 - Searching for internships
-  
+
 ---
+
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/jeet-makhija/) &nbsp;·&nbsp; [jeetmakhija2@gmail.com](mailto:jeetmakhija2@gmail.com)
