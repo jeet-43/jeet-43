@@ -1,6 +1,6 @@
 # Jeet Makhija
 
-BCA student from Delhi, building something new every day. I write DSA in C++, ship real-time backends in Python, build frontend tools in vanilla JS, and I'm now going deep on data analytics - turning messy datasets into dashboards and decisions.
+BCA student from Delhi with two things I care about equally: building software that runs in real time, and pulling hard truths out of messy data. On the engineering side I write DSA in C++, ship real-time backends in Python, and build frontend tools in vanilla JS. On the analytics side I clean real-world datasets, model customer behavior, and turn the results into dashboards a business can actually act on.
 
 ---
 
@@ -9,7 +9,7 @@ BCA student from Delhi, building something new every day. I write DSA in C++, sh
 **Frontend**    -  HTML · CSS · Vanilla JS <br>
 **Backend**     - Python asyncio · WebSockets <br>
 **CV / ML**     -  OpenCV · MediaPipe <br>
-**Data Analytics** -  Python · pandas · NumPy · SQL · Power BI · Matplotlib · Excel <br>
+**Data Analytics** -  Python · pandas · NumPy · SQL (MySQL) · Power BI · Excel · Matplotlib · Jupyter · EDA · RFM Segmentation · Cohort Analysis · Churn Modeling · Data Cleaning <br>
 **AI / Voice**  -  OpenAI SDK · Groq API · SpeechRecognition · gTTS · pyttsx3 <br>
 **Tools**       -  Git · GitHub · VS Code <br>
 
