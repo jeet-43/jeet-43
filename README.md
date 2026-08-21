@@ -37,12 +37,12 @@ End-to-end retention analysis on **1.05M transactions** for a UK online gift ret
 `Python` `pandas` `SQL` `Power BI`
 
 ### [TeamPulse](https://github.com/jeet-43/team-pulse)
-Real-time collaboration health monitor for student teams — tracks team health, fairness, and risk as work happens. Built for **NYC CodeQuest 2026 (EDU-04)**.
+Real-time collaboration health monitor for student teams - tracks team health, fairness, and risk as work happens. Built for **NYC CodeQuest 2026 (EDU-04)**.
 
 `HTML` `CSS` `Vanilla JS`
 
 ### [AlgoSight](https://algo-sight.netlify.app)
-Zero-dependency DSA visualizer, built in pure vanilla JS — no frameworks, no libraries.
+Zero-dependency DSA visualizer, built in pure vanilla JS - no frameworks, no libraries.
 - 34 algorithms with step-by-step narration
 - Race Mode + pathfinding grid
 - Custom LZW GIF encoder written from scratch
@@ -74,8 +74,8 @@ Actively solving DSA patterns in C++. Profile: [leetcode.com/u/Jeet_16](https://
 
 ## Currently
 
-- Learning backend development — Python & FastAPI
-- Deepening data analytics — Python, SQL, Excel, Power BI
+- Learning backend development - Python & FastAPI
+- Deepening data analytics - Python, SQL, Excel, Power BI
 - Solving DSA patterns daily in C++ on LeetCode
 - **Open to internships**
 
