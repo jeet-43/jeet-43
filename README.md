@@ -32,7 +32,7 @@ End-to-end retention analysis on **1.05M transactions** for a UK online gift ret
 - RFM segmentation to identify high-value and at-risk customers
 - Data-derived churn cutoff (not an arbitrary threshold)
 - Cohort retention analysis + 13 SQL business queries
-- Delivered as a **6-page interactive Power BI dashboard**
+- Delivered as a **5-page interactive Power BI dashboard**
 
 `Python` `pandas` `SQL` `Power BI`
 
